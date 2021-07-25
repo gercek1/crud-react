@@ -19,7 +19,7 @@ const data = [
   { id: 3, Nombre: "Laura", Apellido: "bayona" },
   { id: 4, Nombre: "Nicolas", Apellido: "bayona" },
   { id: 5, Nombre: "Edward ", Apellido: "Elric"},
-  { id: 6, Nombre: "Seto", Apellido: "Kaiba" },
+  { id: 6, Nombre: "Maria", Apellido: "Jose" },
 ];
 
 class App extends React.Component {
